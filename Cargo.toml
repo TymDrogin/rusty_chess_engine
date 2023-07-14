@@ -1,0 +1,12 @@
+[package]
+name = "rusty_chess_engine"
+version = "0.1.0"
+edition = "2021"
+
+
+[dependencies]
+
+[dev-dependencies]
+
+
+
