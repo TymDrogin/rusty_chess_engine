@@ -1,0 +1,26 @@
+Big thanks to Lichess for providing this data for free.
+
+Dataset of games used to generate piece-takes heatmap:
+	2013 - March 	23.6 MB		158,635 games
+	https://database.lichess.org/standard/lichess_db_standard_rated_2013-03.pgn.zst
+
+After extracting data put dataset in data folder with the name "games-dataset" + .png 
+
+Data format: 
+	[Event "Rated Bullet game"]
+	[Site "https://lichess.org/ykd40x8s"]
+	[White "esmir"]
+	[Black "apsu2323"]
+	[Result "0-1"]
+	[UTCDate "2013.02.28"]
+	[UTCTime "23:01:05"]
+	[WhiteElo "1575"]
+	[BlackElo "1894"]
+	[WhiteRatingDiff "-4"]
+	[BlackRatingDiff "+3"]
+	[ECO "C00"]
+	[Opening "Rat Defense: Small Center Defense"]
+	[TimeControl "0+1"]
+	[Termination "Time forfeit"]
+
+	1. e4 d6 2. d4 e6 3. f3 g6 4. g3 Bg7 5. h3 Nf6 6. e5 dxe5 7. dxe5 Qxd1+ 8. Kxd1 Nd5 0-1
