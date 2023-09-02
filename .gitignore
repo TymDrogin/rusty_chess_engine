@@ -7,5 +7,9 @@ Cargo.lock
 # Environment management
 .env
 
+# Datasets
+/data/games-dataset.png
+/data/games-dataset.csv
+
 # IDE specific files 
 .vscode/
